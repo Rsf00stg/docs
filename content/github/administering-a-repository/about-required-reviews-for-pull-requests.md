@@ -10,7 +10,6 @@ versions:
   github-ae: '*'
 ---
 
-If you've enforced branch protections in your repository, you can set up required reviews. For more information about enforcing branch protections, see "[Configuring protected branches](/articles/configuring-protected-branches/)." For more information about setting up required reviews, see "[Enabling required reviews for pull requests](/articles/enabling-required-reviews-for-pull-requests)."
 
 {% data reusables.pull_requests.required-reviews-for-prs-summary %}
 
